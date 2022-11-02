@@ -26,5 +26,5 @@ Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analy
 The data set is publicly available on [Kaggle](https://www.kaggle.com/arashnic/fitbit).
 
 ### Posted in:
-- [Medium: Google Capstone Project: How Can Bellabeat, A Wellness Technology Company Play It Smart?](https://medium.com/analytics-vidhya/this-case-study-is-for-google-data-analytics-gda-capstone-project-course-54047cccf7cb?source=friends_link&sk=2256c12964f13be6a1912c0dcab96fb5)
+- [Medium: Google Data Analytics Certificate: Capstone Project](https://medium.com/@aymaneaamam/google-data-analytics-certificate-capstone-project-b59c9db804ae)
 
